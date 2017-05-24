@@ -130,3 +130,4 @@ X:\git\QLNT\qlnt_final\Common\bin\x86\Debug\ja\DevExpress.Sparkline.v15.2.Core.r
 X:\git\QLNT\qlnt_final\Common\bin\x86\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
 X:\git\QLNT\qlnt_final\Common\obj\x86\Debug\Common.dll
 X:\git\QLNT\qlnt_final\Common\obj\x86\Debug\Common.pdb
+X:\git\QLNT\qlnt_final\Common\obj\x86\Debug\Common.csprojResolveAssemblyReference.cache
